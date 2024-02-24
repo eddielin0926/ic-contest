@@ -1,0 +1,17 @@
+
+FTP account:                       E23102
+
+Level:                             A
+cycle:                             205392
+Synthesis area:                    22393
+
+--- RTL category---
+HDL simulator :                    ncverilog 
+RTL filename :                     LASER.v            
+
+--- Pre-layout gate-level ---
+gate-levelfilename:                LASER_syn.v  
+gate-level sdf filename:           LASER_syn.sdf        
+
+-----(annotation)--------------------------------------------------------
+ (optional, write down anything that you want raters know)

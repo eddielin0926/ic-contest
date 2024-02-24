@@ -1,1 +1,1 @@
-# ic-contest
+# IC Contest
